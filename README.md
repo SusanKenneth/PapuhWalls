@@ -22,15 +22,15 @@ https://github.com/jahirfiquitiva/PaperBoard-Final
 http://creativecommons.org/licenses/by-sa/4.0/
 
 
-# Play Store
+# Installation
 
-Currently, Papuh is only available via the playstore but plans to add it to the amazon app store and other
+Currently, Papuh is only available via F-Droid but plans to add it to the amazon app store, Google Play and other
 stores have been made.
 
-<a href="https://play.google.com/store/apps/details?id=com.alexcruz.papuhwalls">
-  <img alt="Get it on Google Play"
+<a href="https://f-droid.org/packages/com.alexcruz.papuhwalls/">
+  <img alt="Get it on F-Droid"
        height="80"
-       src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+       src="https://f-droid.org/badge/get-it-on.png" />
 </a>
 
 # Contributions
